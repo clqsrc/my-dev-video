@@ -4,5 +4,6 @@
 开发日志，godot中一个脚本就是其实就是一个类，定义的变量其实都是类成员
 [https://www.youtube.com/watch?v=sTWpjvQVESg](https://www.youtube.com/watch?v=sTWpjvQVESg)
 
-
+开发日志，godot 补发一个我觉得很重要的 unhandled input 概念
+[https://www.youtube.com/watch?v=dEwGoBNNaqo](https://www.youtube.com/watch?v=dEwGoBNNaqo)
 
