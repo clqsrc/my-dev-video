@@ -8,3 +8,7 @@
 - 📺开发日志，godot 补发一个我觉得很重要的 unhandled input 概念  
 [https://www.youtube.com/watch?v=dEwGoBNNaqo](https://www.youtube.com/watch?v=dEwGoBNNaqo)
 
+- 📺工业 C 语言教程，为何你看不懂开源纯 C 语言项目，课本上不教的 C 语言.1.前言.目标读者  
+[https://www.youtube.com/watch?v=IAu_UntAptY](https://www.youtube.com/watch?v=IAu_UntAptY)
+
+
