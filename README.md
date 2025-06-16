@@ -1,7 +1,7 @@
 # my-dev-video [我的开发视频]
 我在各平台发的开发技巧日志类视频已经很多了，有时候自己要查找起来也有些困难。因此收集备份做下这个索引。
 
-说来也有点搞笑，我在 B 站上的粉丝量太高了导致我有些视频不敢乱发。所以 youtube 上的其实比较完整 :)..
+说来也有点搞笑，我在 B 站上的粉丝量太高了导致我有些视频不敢乱发。<b>所以 youtube 上的其实比较完整 :)..</b> 
 
 - 📺开发日志，godot中一个脚本就是其实就是一个类，定义的变量其实都是类成员  
 [https://www.youtube.com/watch?v=sTWpjvQVESg](https://www.youtube.com/watch?v=sTWpjvQVESg)
